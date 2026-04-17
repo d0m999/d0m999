@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**d0m999/d0m999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi there
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d0m999&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0m999&theme=dark)
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com/?user=d0m999&theme=dark)
+## 📈 AI Tools Usage
+[![VibeUsage](https://vibecafe.ai/@d0m999/badge)](https://vibecafe.ai/@d0m999)
+## 🛠️ Tech Stack
+Python | JavaScript | Go | Rust
